@@ -15,7 +15,7 @@ Workshop conducted by Hasibul Islam, Safayet Arman, Tashdid Siam and Mamun.
 
 #
 
-<h2 style="color:#47A6DA">Task 1:</h2>
+<!-- <h2 style="color:#47A6DA">Task 1:</h2>
 
 Create atleast 2 pages using HTML & CSS like the website given in the <a href="https://mr-mamun-50.github.io/MU_CSE-50/">link below</a>. You can use bootstrap if you want.<br>
 
@@ -26,4 +26,4 @@ Create atleast 2 pages using HTML & CSS like the website given in the <a href="h
 <br>
 <b>Submission deadline:</b>  9th September, 2022 (11:59 PM)
 
-#
+# -->
