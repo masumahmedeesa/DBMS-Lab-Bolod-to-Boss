@@ -22,7 +22,9 @@ check out the link below:
 https://drive.google.com/drive/folders/1ckz1T3AUbgjZrE_H6Gdvfhj15Vwgek0C?usp=sharing
 copy the link and download the whole resources.
 I provide a task there. name (task.pdf) . If you watch all the video the task will be completed.Watch all the video and do it by your self.
-All the images that you need will get in (css - my site images_2.zip) 
+All the images that you need will get in (css - my site images_2.zip) .
+And publish the project in github . Watch this video https://drive.google.com/file/d/1o5Loe22EWH3xf8ZgZ32bs6XkV_hw7Yco/view?usp=sharing
+to publish it in github and after publishing take the link and submit it in the classroom.
 There are 10 marks in the task.
 You have to submit task before sunday.
 If you face any kind of problem feel free to contact with me.send me a email : safayetarman11@gmail.com
