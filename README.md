@@ -1,46 +1,31 @@
-# DBMS-Lab-Bolod-to-Boss
+# Database Management System Lab: Bolod to Boss
 
 Workshop conducted by Hasibul Islam, Safayet Arman, Tashdid Siam and Mamun.
 
-#
+## Topics already covered
+- Introduction to Web development, language/frameworks and DBMS
+- Working with HTML, CSS and Bootstrap
 
-<h2 style="color:#47A6DA">Topics covered in this workshop:</h2>
-
--   Introduction to web development, language/frameworks and DBMS
--   Working with HTML, CSS and Bootstrap
--   Basics of PHP and MySQL
--   CRUD app with PHP and MySQL
--   Introduction to Laravel: Routing, Controllers, Models, Views, Migrations, Eloquent ORM, Blade Templating Engine, Authentication, etc.
--   Simple project with Laravel
-
-#
-
-This is your Second Task.
-It is all about Css.
-We will build our attractive my-site using css styling.
-check out the link below:
-https://drive.google.com/drive/folders/1ckz1T3AUbgjZrE_H6Gdvfhj15Vwgek0C?usp=sharing
-copy the link and download the whole resources.
-I provide a task there. name (task.pdf) . If you watch all the video the task will be completed.Watch all the video and do it by your self.
-All the images that you need will get in (css - my site images_2.zip) .
-And publish the project in github . Watch this video https://drive.google.com/file/d/1o5Loe22EWH3xf8ZgZ32bs6XkV_hw7Yco/view?usp=sharing
-to publish it in github and after publishing take the link and submit it in the classroom.
-There are 10 marks in the task.
-You have to submit task before sunday.
-If you face any kind of problem feel free to contact with me.send me a email : safayetarman11@gmail.com
-
-#
+## Topics will be covered in following workshop itinerary
+- Basics of PHP and MySQL
+- What is CRUD? How to CRUD using API/MySQL?
+- Introduction to Laravel: Routing, Controllers, Models, Views, Migrations, Eloquent ORM, Blade Templating Engine, Authentication, etc.
+- Simple project with Laravel
 
 
-<!-- <h2 style="color:#47A6DA">Task 1:</h2>
+## Assignment 01 : Learn CSS
 
-Create atleast 2 pages using HTML & CSS like the website given in the <a href="https://mr-mamun-50.github.io/MU_CSE-50/">link below</a>. You can use bootstrap if you want.<br>
+1. Go to this [drive folder.](https://drive.google.com/drive/folders/1ckz1T3AUbgjZrE_H6Gdvfhj15Vwgek0C?usp=sharing)
+2. Download the whole resources, and go through all videos. You can use [Visual Studio Code](https://code.visualstudio.com/) as editor.
+3. Please build a `ABOUT YOURSELF` page. You can try following design or something else which is more beautiful than this. You will find all contents [here](https://github.com/masumahmedeesha/DBMS-Lab-Bolod-to-Boss/tree/main/Assignment%2001/Contents) if you follow given design.
+![Your Self](https://github.com/masumahmedeesha/DBMS-Lab-Bolod-to-Boss/blob/main/Assignment%2001/About%20Yourself.png)
+4. Now, create a repository named `[YourGithubUsername].github.io` and push all your contents into the repository. Done. You can visit your own portfolio by going `[YourGithubUsername].github.io`. <br/>
+E.g. My Github username name is [masumahmedeesha](https://github.com/masumahmedeesha). So, my portfolio repository should be [masumahmedeesha.github.io](https://masumahmedeesha.github.io)
+5. Submit your portfolio link in `Google Classroom` within 11 September 2022.
 
-> https://mr-mamun-50.github.io/MU_CSE-50/
+##### Extra
+- If you create another page, then you can also publish that page as `Github Page`. You can watch this [video](https://drive.google.com/file/d/1o5Loe22EWH3xf8ZgZ32bs6XkV_hw7Yco/view?usp=sharing) to learn how to publish Github Pages. <br/>
+E.g. [Mamun's Page](https://mr-mamun-50.github.io/MU_CSE-50). You can use bootstrap if you want.
+- Who will create extra page, will be given extra marks.
 
-<small><i>(You can design the navbar as you wish and don't create the same page twice)</i></small>
-
-<br>
-<b>Submission deadline:</b>  9th September, 2022 (11:59 PM)
-
-# -->
+If you face any kind of problem feel free to contact with [Safayet.](safayetarman11@gmail.com)
