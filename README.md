@@ -21,7 +21,7 @@ Workshop conducted by Hasibul Islam, Safayet Arman, Tashdid Siam and Mamun.
 ![Your Self](https://github.com/masumahmedeesha/DBMS-Lab-Bolod-to-Boss/blob/main/Assignment%2001/About%20Yourself.png)
 4. Now, create a repository named `[YourGithubUsername].github.io` and push all your contents into the repository. Done. You can visit your own portfolio by going `[YourGithubUsername].github.io`. <br/>
 E.g. My Github username name is [masumahmedeesha](https://github.com/masumahmedeesha). So, my portfolio repository should be [masumahmedeesha.github.io](https://masumahmedeesha.github.io)
-5. Submit your portfolio link in `Google Classroom` within 11 September 2022.
+5. Submit your portfolio link in `Google Classroom`.
 
 ##### Extra
 - If you create another page, then you can also publish that page as `Github Page`. You can watch this [video](https://drive.google.com/file/d/1o5Loe22EWH3xf8ZgZ32bs6XkV_hw7Yco/view?usp=sharing) to learn how to publish Github Pages. <br/>
